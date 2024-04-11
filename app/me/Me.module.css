@@ -1,0 +1,19 @@
+.main {
+  margin: 64px auto;
+  max-width: 768px;
+  padding: 64px;
+  border: 4px solid black;
+}
+
+.auth__button {
+  font-size: 30px;
+  font-family: "Rubic One", sans-serif;
+  background-color: transparent;
+  border: none;
+  padding: 12px 20px 10px;
+  border-left: 4px solid black;
+  text-transform: uppercase;
+  color: white;
+  background-color: black;
+  transition: color 0.3s ease-in-out;
+}
